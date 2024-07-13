@@ -8,7 +8,7 @@
 <p>Use <b>YouTube Playlist and single link</b> Direct will download your Google drive, Folder Name is <b>YouTube video</b></p>`
 
 # Open notebook here:
-<p align=center><a href="https://colab.research.google.com/github/SudoR2spr/YouTube-Downloader-Colab/blob/main/YouTube%20Downloader/YouTube%20Downloader%20WOODcraft.ipynb" target="_blank">
+<p align=center><a href="https://colab.research.google.com/github/SudoR2spr/YouTube-Downloader-Colab/blob/master/YouTube%20Downloader/YouTube%20Downloader%20WOODcraft.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Link"/>
   </a></p>  
 
