@@ -38,7 +38,7 @@ The changes are made because resources in Colab are prioritized for interactive 
 
 <p align="center">
   <a href="https://github.com/SudoR2spr/YouTube-Downloader-Colab" target="_blank">
-    <img alt="Yt-Downloader" src="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/assets/angel-op/Yt-dlp-angel.png">
+    <img alt="Yt-Downloader" src="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/assets/angel-op/Yt-dlp-angel.png" width="300px">
   </a>
 </p>
 
